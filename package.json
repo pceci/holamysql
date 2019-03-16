@@ -1,0 +1,14 @@
+{
+  "name": "holamysql",
+  "version": "1.0.0",
+  "description": "prueba coneccion  mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pceci",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
+}
